@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## What should I do?
 
 To use the tests, you will need to install [Node](https://nodejs.org/).
@@ -25,6 +24,3 @@ need to learn.
 
 The repo includes jQuery, Backbone, and Underscore. You can use these
 libraries when writing your solutions!
-=======
-# javascript-test
->>>>>>> b620529b354b11d7dfb3ae67f7cbfc03c1371064
